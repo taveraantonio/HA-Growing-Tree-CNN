@@ -5,9 +5,6 @@ The objective of this work is to improve the Tree-CNN approach and this will be 
           Pietro Barbiero,
           Chiara Sopegno,
           Antonio Tavera
-          
-## Dataset
-You can download the dataset from that folder: **https://drive.google.com/drive/folders/1qcCSvO8Ll1OVq0BgWatpqE_ip_lz64z0?usp=sharing**
 
 ## How it works
 You can run the code with a Python environment (like Spyder) or directly from the terminal (inside the root folder of the project) like this: 
